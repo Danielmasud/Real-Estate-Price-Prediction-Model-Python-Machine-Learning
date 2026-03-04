@@ -1,5 +1,4 @@
 🏠 Real Estate Price Prediction | Machine Learning
-Project Focus: Predictive Modeling & Mathematical Optimization
 
 📝 Project Overview
 
