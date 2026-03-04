@@ -24,3 +24,6 @@ Language: Python.
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 
 Environment: Jupyter Notebook.
+
+---
+**Course:Mathematics for Machine Learning**  | **Institution:** Ruppin Academic Center
