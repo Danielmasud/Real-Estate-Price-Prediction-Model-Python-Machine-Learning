@@ -17,13 +17,10 @@ Model Evaluation: Utilized metrics Mean Squared Error (MSE)
  
  Score to validate model performance and prevent overfitting.
 
-💻 Tools & Technologies
-
-Language: Python.
-
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
-
-Environment: Jupyter Notebook.
+## Tools & Technologies
+- Python
+- Jupyter Notebook
+- Machine learning
 
 ---
 **Course:** Mathematics for Machine Learning  | **Institution:** Ruppin Academic Center
