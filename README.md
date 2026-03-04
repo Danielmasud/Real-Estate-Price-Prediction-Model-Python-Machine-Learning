@@ -6,15 +6,13 @@ Developed a machine learning model to predict real estate prices based on divers
 
 🎯 Key Features & Implementation
 
-Data Preprocessing: Handled missing values, performed feature scaling, and executed One-Hot Encoding for categorical variables to prepare the dataset for regression.
+- Data Preprocessing: Handled missing values, performed feature scaling, and executed One-Hot Encoding for categorical variables to prepare the dataset for regression.
 
-Exploratory Data Analysis (EDA): Conducted statistical analysis and visualization to identify correlations between property features and market prices.
+- Conducted statistical analysis and visualization to identify correlations between property features and market prices.
 
-Model Development: Implemented and compared multiple regression models, including Linear Regression and Decision Trees, to optimize prediction accuracy.
+- Implemented and compared multiple regression models, including Linear Regression and Decision Trees, to optimize prediction accuracy.
 
-Model Evaluation: Utilized metrics Mean Squared Error (MSE) 
- 
- Score to validate model performance and prevent overfitting.
+- Utilized metrics Mean Squared Error (MSE) 
 
 ## Tools & Technologies
 - Python
