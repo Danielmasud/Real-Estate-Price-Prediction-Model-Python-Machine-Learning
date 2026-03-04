@@ -3,7 +3,7 @@
 ## Overview
 Developed a machine learning model to predict real estate prices based on diverse features such as location, size, and property characteristics. The project emphasizes the mathematical foundations of learning algorithms and data preprocessing.
 
-🎯 Key Features & Implementation
+## Key Features & Implementation
 
 - Data Preprocessing: Handled missing values, performed feature scaling, and executed One-Hot Encoding for categorical variables to prepare the dataset for regression.
 
